@@ -11,11 +11,10 @@
 - API integrations.
 
 # 🛠️ Tools
-<h3 align="left">Languages and Tools:</h3>
 
-Languages: SQL, Python, JavaScript
-Database: Google BigQuery
-Visualisation: Power BI, Looker Studio
+- Languages: SQL, Python, JavaScript
+- Cloud: Google Cloud Projects
+- Visualisation: Power BI, Looker Studio
 
 # 👋🏻 Connect with Me
 [Linkedin](https://www.linkedin.com/in/irinasimoes/)
