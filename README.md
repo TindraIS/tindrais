@@ -19,5 +19,8 @@
 # 👋🏻 Connect with Me
 [Linkedin](https://www.linkedin.com/in/irinasimoes/)
 
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tindrais&label=Profile%20views&color=0e75b6&style=flat" alt="tindrais" /> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tindrais&show_icons=true&locale=en&layout=compact" alt="tindrais" /></p>
 
