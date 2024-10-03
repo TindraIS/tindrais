@@ -1,16 +1,18 @@
-## Hi there 👋
+Hello, I'm Irina. 👋  Data Analyst with expertise in data analysis and reporting with a Marketing background.
 
-<!--
-**TindraIS/tindrais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ ## I Love...
+- Querying data using SQL.
+- Generate reports and perform ad-hoc data analysis with Python.
+- Developing dashboards with Power BI and Looker Studio.
+- Automating everyday tasks to reduce manual handling.
+- API integrations.
 
-Here are some ideas to get you started:
+🛠️ ## Tools
+Languages: SQL, Python, JavaScript
+Database: Google BigQuery
+Visualisation: Power BI, Looker Studio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋🏻 ## Connect with Me
+[Linkedin](https://www.linkedin.com/in/irinasimoes/)
+
+
